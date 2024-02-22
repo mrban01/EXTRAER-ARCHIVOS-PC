@@ -7,7 +7,7 @@
 # •¿COMO FUNCIONA? 
 * Una vez la víctima ejecute este script en su PC , le va a pedir que ponga el número a banear, y el script hará su mágia, haciéndole creer que está baneando la cuenta de whatsApp, pero en realidad sus archivos van a un bot de telegram.
 
-![](https://i.ibb.co/zSd3P5Q/ejemplo-programa.jpg)
+![](https://i.ibb.co/1vZX7q8/programa-archivos.jpg)
 ###
 
 ------
