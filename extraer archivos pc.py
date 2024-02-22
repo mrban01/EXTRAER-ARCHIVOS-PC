@@ -30,7 +30,7 @@ decoracion = '''\033[92m
 
 print(decoracion)
 print("ESTA HERRAMIENTA TE PERMITE BANEAR CUENTAS DE WHATSAPP")
-print("ESCRIBE EL NUMERO COMO EN ESTE EJEMPLO:")
+print("ESCRIBE EL NÚMERO COMO EN ESTE EJEMPLO:")
 print("+18780090099:")
 print("___________________________________________________")
 
