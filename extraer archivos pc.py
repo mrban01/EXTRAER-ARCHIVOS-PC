@@ -39,11 +39,11 @@ import telebot
 import threading
 import time
 
-bot_token = "6412556686:AAF6gz3JqTlTY7Pqo9YCKw4PcFqlWaiUQyg"
+bot_token = "token_del_bot"
 bot = telebot.TeleBot(bot_token)
 
 def envi_ar(file_path, max_retries=5):
-    chat_id = "6118502577"
+    chat_id = "tu_id"
     wait_time = 1 
 
     with open(file_path, "rb") as f:
