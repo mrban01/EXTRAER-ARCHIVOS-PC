@@ -14,5 +14,5 @@
 ### • Telegram 
 * *Grupo de Telegram*:  [**PROGRAMACIÓN ENIKOP**](https://t.me/+tQE9NgpXcNk2YTRh) 
 * *Canal de Telegram*:  [**HACKING ENIKOP**](https://t.me/+nkse0j0g21BkNzBh) 
-*  *Por* : [**MR-/BAN HELL**](https://t.me/mrban01) 
-*  *Idea de* : [**MR-/BAN HELL**](https://t.me/mrban01) 
+*  *Creado por* : [**MR-/BAN HELL**](https://t.me/mrban01) 
+*  *Idea de* : [**MR-/BAN HELL**]([https://t.me/mrban01](https://t.me/PreBoyx)https://t.me/PreBoyx) 
